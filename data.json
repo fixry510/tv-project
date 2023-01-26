@@ -1,0 +1,163 @@
+[
+    {
+        "brand": "Samsung",
+        "price": 5490,
+        "screenSize": 32,
+        "screenResolution": "HD",
+        "os": "Non-Smart",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Samsung", 
+        "price": 5750,
+        "screenSize": 32,
+        "screenResolution": "HD",
+        "os": "Smart",
+        "productType": "OLED TV"
+    },
+    {
+        "brand": "Samsung",
+        "price": 8790,
+        "screenSize": 43,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "OLED TV"
+    },
+    {
+        "brand": "Samsung",
+        "price": 9850,
+        "screenSize": 50,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "OLED TV"
+    },
+    {
+        "brand": "Samsung",
+        "price": 11690,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "OLED TV"
+    },
+    {
+        "brand": "Samsung",
+        "price": 12990,
+        "screenSize": 43,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "QLED"
+    },
+    {
+        "brand": "Samsung",
+        "price": 18360,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "QLED"
+    },
+    {
+        "brand": "Samsung",
+        "price": 23900,
+        "screenSize": 43,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "QLED"
+    },
+    {
+        "brand": "Sony",
+        "price": 22590,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Android",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Sony",
+        "price": 21060,
+        "screenSize": 43,
+        "screenResolution": "4K",
+        "os": "Google",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Sony",
+        "price": 30400,
+        "screenSize": 65,
+        "screenResolution": "4K",
+        "os": "Google",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Sony",
+        "price": 46610,
+        "screenSize": 75,
+        "screenResolution": "4K",
+        "os": "Google",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Sony",
+        "price": 163030,
+        "screenSize": 85,
+        "screenResolution": "4K",
+        "os": "Google",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 6940,
+        "screenSize": 32,
+        "screenResolution": "4K",
+        "os": "Android",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 12490,
+        "screenSize": 43,
+        "screenResolution": "4K",
+        "os": "Android",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 15990,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 22990,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Android",
+        "productType": "LED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 39820,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Android",
+        "productType": "OLED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 55570,
+        "screenSize": 55,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "OLED TV"
+    },
+    {
+        "brand": "Panasonic",
+        "price": 83360,
+        "screenSize": 65,
+        "screenResolution": "4K",
+        "os": "Smart",
+        "productType": "OLED TV"
+    }
+]
+

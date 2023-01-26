@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784266206465",
+    "project_id": "cs535-fc1e0",
+    "storage_bucket": "cs535-fc1e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784266206465:android:39efb9e184281398738f00",
+        "android_client_info": {
+          "package_name": "com.example.tv_project3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784266206465-b9lo61r5ebpcjn2u942mct4ivei039kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC09PR3bzWnxZw2ewWIskdh1xQHw0vcQrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784266206465-b9lo61r5ebpcjn2u942mct4ivei039kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
